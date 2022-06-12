@@ -21,6 +21,8 @@ Let's use the graph from step 1
 
 iGraph library is used for graph
 
+![Graph](https://github.com/mtfsahin/Text-Proccessing-with-kmin-School-Prohect/blob/main/graph.jpeg)
+
 
 ```
 column_names = [0, 1, 2, 3, 4, 5, 6, 7]
@@ -113,6 +115,9 @@ def kmin (kmin_agaci=kmin_agaci,a = a,g = g,min_deg = min(a)):
 def listeden_sifirlari_sil(the_list, val):
    return [value for value in the_list if value != val]
 ```
+#Kmin tree
+
+![Kmin](https://github.com/mtfsahin/Text-Proccessing-with-kmin-School-Prohect/blob/main/kmin.jpeg)
 
 #Deficiencies
 
