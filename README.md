@@ -1,4 +1,4 @@
-#Text Proccessing with Kmin - School Graduation Project
+#Text Proccessing with Kmin - Graduation Project
 
 Today, text processing works in many fields and with many methods. We tried to solve this problem with Solving the Minimum Dominating Set Problem by Polynomial Method (KMax - KMin tree) in the graduation project. 
 
